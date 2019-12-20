@@ -6,6 +6,7 @@ Databases and SQL for Data Science
 Python for Data Science  
 Data Analysis with Python  
 Data Visualization with Python  
+Machine Learning with Python   
 https://mybinder.org/v2/gh/mfcarrasco/IBM-Developer-Skills-Network---Labs/master  
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mfcarrasco/IBM-Developer-Skills-Network---Labs/master)  
